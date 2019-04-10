@@ -1,2 +1,0 @@
-# pollbot
-Pollbot for Telegram
